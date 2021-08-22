@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_EF_ScaffoldDbContext", "WPF_EF_ScaffoldDbContext.csproj", "{2AD42184-935D-4ABF-8D15-F169D2BE3037}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AD42184-935D-4ABF-8D15-F169D2BE3037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AD42184-935D-4ABF-8D15-F169D2BE3037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AD42184-935D-4ABF-8D15-F169D2BE3037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AD42184-935D-4ABF-8D15-F169D2BE3037}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A1F40B8-D184-4CD0-855B-E12F8D630AB1}
+	EndGlobalSection
+EndGlobal
